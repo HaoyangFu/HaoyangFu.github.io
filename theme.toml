@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/HaoyangFu/haoyangfu.github.io/LICENSE.md"
 description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
 homepage = "https://haoyangfu.github.io/"
-demosite = "https://research-group.netlify.app/"
+demosite = "https://haoyangfu.github.io/"
 tags = ["academic",
         "university",
         "research",
@@ -38,4 +38,4 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "Haoyang Fu"
-  homepage = "https://georgecushen.com"
+  homepage = "https://haoyangfu.github.io/"
